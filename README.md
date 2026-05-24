@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/a2189cb2-5e18-4741-b417-cde66df2f9a7
 1. Clone the repository
 
 ```bash
-git clone git@github.com:Komala-L/Interactive-Story-Viewer.git
+git clone git@github.com/Komala-L/Interactive-Story-Viewer.git
 ```
 
 2. Open the project folder
